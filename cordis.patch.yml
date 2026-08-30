@@ -1,0 +1,8 @@
+# dsh-external-brain: 对外 OpenAI 兼容 /v1/chat/completions，供 NEKO 侧 external_control 转发调用。
+- insert:
+    - id: dsh-external-brain
+      name: 'dsh-external-brain'
+      config:
+        provider: 'deepseek-official'
+        model: 'deepseek-v4-flash'
+        allowModelOverride: false
