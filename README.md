@@ -1,5 +1,6 @@
 # dsh-external-brain
 
+是给N.E.K.O的外部程序控制的另一半，N.E.K.O侧插件上传https://github.com/xy28816/n.e.k.o_plugin_neko_mcp_serve，但是还没审核好......
 DSH 侧对接插件。对外提供一个 OpenAI 兼容的 `POST /v1/chat/completions` 端点（默认 `http://127.0.0.1:3080/v1`），供 NEKO 侧 **external_control** 插件转发对话请求过来。
 
 ## 角色
