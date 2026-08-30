@@ -1,2 +1,3 @@
 lib/*.bak*
-*.bak
+*.bak*
+lib/index.jsbak
