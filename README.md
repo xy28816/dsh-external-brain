@@ -1,7 +1,6 @@
 # dsh-external-brain
 
 是给N.E.K.O的外部程序控制的另一半，N.E.K.O侧插件见https://github.com/xy28816/n.e.k.o_plugin_neko_mcp_serve。
-但是还没审核好......
 
 要在设置里调整挂载的对话，但是没有名字，不知道怎么改，可能不直观。
 这里有一个小技巧：通过shell打开的新框架只有点开过的会话才会在挂载列表里显示。
